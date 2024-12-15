@@ -51,7 +51,3 @@ Script ini digunakan untuk menjalankan pencarian di Google (tab berita) dan meng
 - Pastikan Anda memiliki koneksi internet yang stabil.
 - Jika Google memberikan CAPTCHA, Anda mungkin perlu menyelesaikannya secara manual.
 - Jika ada kendala, gunakan mode debug Playwright untuk memantau proses scraping.
-
----
-
-Nikmati scraping! 🚀
