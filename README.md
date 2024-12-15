@@ -33,7 +33,7 @@ Script ini digunakan untuk menjalankan pencarian di Google (tab berita) dan meng
    
    Untuk menjalankan script dengan mode debug Playwright, gunakan perintah:
    ```bash
-   PWDEBUG=1 pytest -s test_example.py
+   PWDEBUG=1 pytest -s main.py
    ```
    
    Perintah ini akan membuka browser interaktif untuk melihat proses scraping yang berjalan.
